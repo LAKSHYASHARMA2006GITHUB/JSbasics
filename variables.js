@@ -4,11 +4,11 @@ console.log("hello i am javascript");
 
 const email = "lakshya@gmail.com";
 const mobno = 2342523532;
-let names  = "lakshya"
-let age  = 19;
-console.log(email,age);
+let names = "lakshya"
+let age = 19;
+console.log(email, age);
 /*it prints the output in the table format */
-console.table([email,mobno,names,age]);
+console.table([email, mobno, names, age]);
 /* it prints a warning */
 console.warn("details must be changed")
 
